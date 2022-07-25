@@ -1,3 +1,10 @@
+i'm second year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
+Currently, i'm on my way learning Laravel and other framework API
+
+Interested in:
+
+Backend technologies
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasrna&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
