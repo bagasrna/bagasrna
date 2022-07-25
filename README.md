@@ -1,3 +1,5 @@
+👋 Hi I'm Bagas
+
 i'm second year student at University of Brawijaya, Faculty of Computer Science, majoring in Information Technology.
 Currently, i'm on my way learning Laravel and other framework API
 
